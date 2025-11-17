@@ -1,0 +1,7 @@
+# robots.txt for https://adhirajchhoda.github.io/personalWebsite/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://adhirajchhoda.github.io/personalWebsite/sitemap.xml
